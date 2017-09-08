@@ -15,13 +15,17 @@
     window.$docsify = {
         name: 'Vertco.in Directory',
         homepage: 'welcome.md',
-        repo: 'https://github.com/Cookizza/Vertco.in/',
         themeColor: '#33ae57',
         loadSidebar: '_sidebar.md',
         subMaxLevel: 3,
         maxLevel: 3,
         mergeNavbar: true,
-        autoHeader: true
+        autoHeader: true,
+        plugins: [
+            EditOnGithubPlugin.create(
+                'https://github.com/Cookizza/Vertco.in/blob/master/'
+            )
+        ]
     }
 </script>
 <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
