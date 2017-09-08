@@ -1,6 +1,6 @@
 # Vertcoin Mining Pools
 
-It is generally encouraged to use P2P Nodes for mining as it helps keep the network truly decentralised.
+It is generally encouraged to run your own P2P node for mining as it helps keep the network truly decentralised.
 
 
 ## Node Scanners

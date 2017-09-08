@@ -1,5 +1,3 @@
-- [About Vertco.in](welcome.md)
-
 - [Communities](communities.md)
 
 - [Vertcoin Guides](guides.md)
