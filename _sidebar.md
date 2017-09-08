@@ -4,8 +4,10 @@
 
 - [Vertcoin Guides](guides.md)
 
+- [Mining Pools](mining_pools.md)
+
 - [Trading & Tools](trading_and_tools.md)
 
-- [Games](games.md)
+- [Games & Casinos](games_casinos.md)
 
 - [Retailers & Merchants](retail.md)
