@@ -11,6 +11,7 @@
 <body>
 <div id="app"></div>
 </body>
+<script src="//unpkg.com/docsify-edit-on-github@1.0.1/index.js"></script>
 <script>
     window.$docsify = {
         name: 'Vertco.in Directory',
@@ -20,7 +21,12 @@
         repo: 'https://github.com/Cookizza/Vertco.in',
         subMaxLevel: 3,
         maxLevel: 3,
-        autoHeader: true
+        autoHeader: true,
+        plugins: [
+            EditOnGithubPlugin.create(
+                'https://github.com/Cookizza/Vertco.in/blob/master/'
+            )
+        ]
     };
     (function (i, s, o, g, r, a, m) {
         i['GoogleAnalyticsObject'] = r;
