@@ -17,7 +17,6 @@ Find P2P Nodes as local as possible to get the best results out of P2P mining.
 
 [alwayshashing.com](http://vtc.alwayshashing.com:9171/static/)
 
-[bitmakler.net](https://bitmakler.net/mining_VertCoin-VTC__pools)
 
 
 ## Mining Pools
@@ -25,8 +24,6 @@ Find P2P Nodes as local as possible to get the best results out of P2P mining.
 [Give Me Coins](http://give-me-coins.com/vertcoin-pool)
 
 [Mining Pool Hub](https://vertcoin.miningpoolhub.com/)
-
-[Aika Pool](https://aikapool.com/vtc/)
 
 [Coinotron](https://www.coinotron.com/app?action=ChartNoLogon&span=0&type=C&name=VTC)
 
