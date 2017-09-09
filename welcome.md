@@ -12,3 +12,5 @@ to add a link or information to. All edit's and suggestions will be considered.
 We try to review all pull requests within 24 hours.
 
 Not familiar with github or markdown? We're happy to add your links ourselves. For any additions or amends to this website please send us an email to [admin@vertco.in](mailto:admin@vertco.in?subject=directory%20submission)
+
+There will NEVER be ads on this website. It is run by and for the community. Donations for hosting are appreciated and can be sent to VrqPfNbkrFSZXRhUzwL6r8GktT1F8sDuhD
