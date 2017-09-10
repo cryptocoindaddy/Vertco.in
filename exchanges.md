@@ -16,7 +16,8 @@ We try to keep this list in order of average daily volume. If you notice a discr
 
 
 ## Real Money / Fiat Exchanges
+Easily buy Vertcoin (or many other coins) by bank transfer, debit or credit card.
 
 [Bittylicious](https://bittylicious.com/) **(UK)**
 
-Easily buy Vertcoin (or many other coins) by bank transfer, debit or credit card. UK Only but instant and often a decent rate on VTC.
+[Litebit](https://www.litebit.eu/en/buy/vertcoin) **EU**
