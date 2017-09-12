@@ -8,6 +8,8 @@ We try to keep this list in order of average daily volume. If you notice a discr
 
 [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-VTC) - VTC/BTC
 
+[Shapeshift.io](http://shapeshift.io) - VTC/BTC
+
 [19800](https://www.19800.com/trade.html?marketid=cny_vtc) - VTC/CNY
 
 [Poloniex](https://poloniex.com/exchange/#btc_vtc) - VTC/BTC
