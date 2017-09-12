@@ -1,1 +1,5 @@
-There's nothing here yet! Edit me and create a pull request on github!
+# Vertcoin Guides
+
+## Using One Click Miner
+
+[Youtube Tutorial by Design Crypto](https://www.youtube.com/watch?v=0dzeAerxGKs)
