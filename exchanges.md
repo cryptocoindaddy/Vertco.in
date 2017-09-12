@@ -4,20 +4,22 @@
 
 We try to keep this list in order of average daily volume. If you notice a discrepancy please submit an edit!
 
-[Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-VTC)
+[Jubi](https://coinmarketcap.com/currencies/vertcoin/) - VTC/CNY
 
-[Poloniex](https://poloniex.com/exchange/#btc_vtc)
+[Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-VTC) - VTC/BTC
 
-[Jubi](https://coinmarketcap.com/currencies/vertcoin/)
+[19800](https://www.19800.com/trade.html?marketid=cny_vtc) - VTC/CNY
 
-[Bleutrade](https://bleutrade.com/exchange/VTC/BTC)
+[Poloniex](https://poloniex.com/exchange/#btc_vtc) - VTC/BTC
 
-[YoBit](https://yobit.net/en/trade/VTC/BTC)
+[Litebit](https://www.litebit.eu/en/buy/vertcoin) - VTC/EUR
 
+[Bittylicious](https://bittylicious.com/) - VTC/GBP
 
-## Real Money / Fiat Exchanges
-Easily buy Vertcoin (or many other coins) by bank transfer, debit or credit card.
+[YoBit](https://yobit.net/en/trade/VTC/BTC) - VTC/BTC
 
-[Bittylicious](https://bittylicious.com/) **(UK)**
+[Coingi](https://coingi.com/) - VTC/BTC
 
-[Litebit](https://www.litebit.eu/en/buy/vertcoin) **EU**
+[SouthXchange](https://www.southxchange.com/Market/Book/VTC/BTC) - VTC/BTC
+
+[Bleutrade](https://bleutrade.com/exchange/VTC/BTC) - VTC/BTC
